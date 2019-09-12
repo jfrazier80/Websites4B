@@ -1,0 +1,108 @@
+.nav-bar{
+    background-color:rgb(35, 114, 204);
+    height:140px;
+    border-block-end-style: solid;
+  
+
+    
+ 
+}
+div.scrollmenu {
+    background-color: #333;
+    overflow: auto;
+    white-space: nowrap;
+  }
+  
+  div.scrollmenu a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+  }
+  
+  div.scrollmenu a:hover {
+    background-color: #777;
+    
+  }
+
+a:hover{
+    color: blue;
+    
+}
+
+h2
+{font-family: 'Lexend Peta', sans-serif;}
+
+
+li{
+    list-style-type:none;
+    float:right;
+    padding:30px;
+    font-size:18px;
+    border: 1 px solid;
+    border-radius: 20px;
+    table-layout: 15px
+
+}
+
+a{ 
+    color:black;
+
+}
+
+.logo{
+    height: 100px;
+    width: 150px;
+    position: absolute;
+    top:50px;
+    left: 1120px;
+    
+
+}
+.inline{
+    display:inline;
+    
+
+}
+
+
+
+
+header{
+    height:50px;
+    background-color:rgb(178, 168, 196);
+}
+
+.design{
+    height: 300px;
+    width:900px;
+    
+
+}
+
+.box{
+    height: 300px;
+    width: 900px;
+    border: 3px rgba(red, green, blue, alpha)
+    
+}
+
+
+
+.social{
+   
+    display: inline-block;
+
+}
+
+
+.ad{
+
+float:right;
+margin-right: 100px; 
+bottom:100px;   
+  }
+
+
+
